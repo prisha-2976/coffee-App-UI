@@ -28,7 +28,7 @@ These documentation files are specifically formatted for AI agents and should be
 /
 ├── app/                   # Expo Router file-based routing
 │   ├── (tabs)/            # Tab-based navigation screens
-│   │   ├── index.tsx      # Home screen
+│   │   ├── Index.tsx      # Home screen
 │   │   ├── explore.tsx    # Explore screen
 │   │   └── _layout.tsx    # Tabs layout
 │   ├── _layout.tsx        # Root layout with theme provider
