@@ -53,7 +53,7 @@ export default function GetStartedScreen() {
                 activeOpacity={0.8}
                 onPress={async ()=>{
                     await Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
-                router.push("/signup");}}
+                router.push("/login");}}
 
                               >
                 <Text className="text-white-100 text-[32px] font-montserrat">Get Started</Text>
